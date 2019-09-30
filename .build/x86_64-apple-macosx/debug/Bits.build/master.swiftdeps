@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "097f5866634471bee7f43965ed361991"
+build_time: [1569847801, 543360000]
+inputs:
+  "/Users/macbook/lab5comQuest/.build/checkouts/core/Sources/Bits/BitsError.swift": [1569847760, 136928176]
+  "/Users/macbook/lab5comQuest/.build/checkouts/core/Sources/Bits/Byte+Alphabet.swift": [1569847760, 137043743]
+  "/Users/macbook/lab5comQuest/.build/checkouts/core/Sources/Bits/Byte+Control.swift": [1569847760, 137153679]
+  "/Users/macbook/lab5comQuest/.build/checkouts/core/Sources/Bits/Byte+Digit.swift": [1569847760, 137277837]
+  "/Users/macbook/lab5comQuest/.build/checkouts/core/Sources/Bits/ByteBuffer+binaryFloatingPointOperations.swift": [1569847760, 137385958]
+  "/Users/macbook/lab5comQuest/.build/checkouts/core/Sources/Bits/ByteBuffer+peek.swift": [1569847760, 137487528]
+  "/Users/macbook/lab5comQuest/.build/checkouts/core/Sources/Bits/ByteBuffer+require.swift": [1569847760, 137597175]
+  "/Users/macbook/lab5comQuest/.build/checkouts/core/Sources/Bits/ByteBuffer+string.swift": [1569847760, 137829888]
+  "/Users/macbook/lab5comQuest/.build/checkouts/core/Sources/Bits/Bytes.swift": [1569847760, 137997087]
+  "/Users/macbook/lab5comQuest/.build/checkouts/core/Sources/Bits/Data+Bytes.swift": [1569847760, 138153463]
+  "/Users/macbook/lab5comQuest/.build/checkouts/core/Sources/Bits/Data+Strings.swift": [1569847760, 138398957]
+  "/Users/macbook/lab5comQuest/.build/checkouts/core/Sources/Bits/Deprecated.swift": [1569847760, 138489374]

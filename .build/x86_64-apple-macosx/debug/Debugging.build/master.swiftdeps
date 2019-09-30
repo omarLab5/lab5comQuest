@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "60913924595f25bd4537c051172f3cc1"
+build_time: [1569847776, 58879000]
+inputs:
+  "/Users/macbook/lab5comQuest/.build/checkouts/core/Sources/Debugging/Debuggable.swift": [1569847760, 142259383]
+  "/Users/macbook/lab5comQuest/.build/checkouts/core/Sources/Debugging/Demangler.swift": [1569847760, 142376878]
+  "/Users/macbook/lab5comQuest/.build/checkouts/core/Sources/Debugging/SourceLocation.swift": [1569847760, 142476622]

@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/WebSocket.build/master.swiftdeps"
+  },
+  "/Users/macbook/lab5comQuest/.build/checkouts/websocket/Sources/WebSocket/Exports.swift": {
+    "dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/WebSocket.build/Exports.d",
+    "object": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/WebSocket.build/Exports.swift.o",
+    "swiftmodule": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/WebSocket.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/WebSocket.build/Exports.swiftdeps"
+  },
+  "/Users/macbook/lab5comQuest/.build/checkouts/websocket/Sources/WebSocket/WebSocket+Client.swift": {
+    "dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocket+Client.d",
+    "object": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocket+Client.swift.o",
+    "swiftmodule": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocket+Client~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocket+Client.swiftdeps"
+  },
+  "/Users/macbook/lab5comQuest/.build/checkouts/websocket/Sources/WebSocket/WebSocket+Server.swift": {
+    "dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocket+Server.d",
+    "object": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocket+Server.swift.o",
+    "swiftmodule": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocket+Server~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocket+Server.swiftdeps"
+  },
+  "/Users/macbook/lab5comQuest/.build/checkouts/websocket/Sources/WebSocket/WebSocket.swift": {
+    "dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocket.d",
+    "object": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocket.swift.o",
+    "swiftmodule": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocket~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocket.swiftdeps"
+  },
+  "/Users/macbook/lab5comQuest/.build/checkouts/websocket/Sources/WebSocket/WebSocketFrameSequence.swift": {
+    "dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocketFrameSequence.d",
+    "object": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocketFrameSequence.swift.o",
+    "swiftmodule": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocketFrameSequence~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocketFrameSequence.swiftdeps"
+  },
+  "/Users/macbook/lab5comQuest/.build/checkouts/websocket/Sources/WebSocket/WebSocketHandler.swift": {
+    "dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocketHandler.d",
+    "object": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocketHandler.swift.o",
+    "swiftmodule": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocketHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocketHandler.swiftdeps"
+  }
+}

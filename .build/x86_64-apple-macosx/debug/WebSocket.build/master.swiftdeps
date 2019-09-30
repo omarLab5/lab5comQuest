@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "cdd31451dca39aa7ed365e1a9cb249bc"
+build_time: [1569847820, 112368000]
+inputs:
+  "/Users/macbook/lab5comQuest/.build/checkouts/websocket/Sources/WebSocket/Exports.swift": [1569847760, 304969896]
+  "/Users/macbook/lab5comQuest/.build/checkouts/websocket/Sources/WebSocket/WebSocket+Client.swift": [1569847760, 305197998]
+  "/Users/macbook/lab5comQuest/.build/checkouts/websocket/Sources/WebSocket/WebSocket+Server.swift": [1569847760, 305335389]
+  "/Users/macbook/lab5comQuest/.build/checkouts/websocket/Sources/WebSocket/WebSocket.swift": [1569847760, 305486834]
+  "/Users/macbook/lab5comQuest/.build/checkouts/websocket/Sources/WebSocket/WebSocketFrameSequence.swift": [1569847760, 305650290]
+  "/Users/macbook/lab5comQuest/.build/checkouts/websocket/Sources/WebSocket/WebSocketHandler.swift": [1569847760, 305765527]

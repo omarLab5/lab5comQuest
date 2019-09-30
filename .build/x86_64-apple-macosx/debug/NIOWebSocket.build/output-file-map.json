@@ -1,0 +1,59 @@
+{
+  "": {
+    "swift-dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/master.swiftdeps"
+  },
+  "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/NIOWebSocket/Base64.swift": {
+    "dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/Base64.d",
+    "object": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/Base64.swift.o",
+    "swiftmodule": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/Base64~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/Base64.swiftdeps"
+  },
+  "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/NIOWebSocket/SHA1.swift": {
+    "dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/SHA1.d",
+    "object": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/SHA1.swift.o",
+    "swiftmodule": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/SHA1~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/SHA1.swiftdeps"
+  },
+  "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketErrorCodes.swift": {
+    "dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/WebSocketErrorCodes.d",
+    "object": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/WebSocketErrorCodes.swift.o",
+    "swiftmodule": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/WebSocketErrorCodes~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/WebSocketErrorCodes.swiftdeps"
+  },
+  "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrame.swift": {
+    "dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/WebSocketFrame.d",
+    "object": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/WebSocketFrame.swift.o",
+    "swiftmodule": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/WebSocketFrame~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/WebSocketFrame.swiftdeps"
+  },
+  "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrameDecoder.swift": {
+    "dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/WebSocketFrameDecoder.d",
+    "object": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/WebSocketFrameDecoder.swift.o",
+    "swiftmodule": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/WebSocketFrameDecoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/WebSocketFrameDecoder.swiftdeps"
+  },
+  "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrameEncoder.swift": {
+    "dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/WebSocketFrameEncoder.d",
+    "object": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/WebSocketFrameEncoder.swift.o",
+    "swiftmodule": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/WebSocketFrameEncoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/WebSocketFrameEncoder.swiftdeps"
+  },
+  "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketOpcode.swift": {
+    "dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/WebSocketOpcode.d",
+    "object": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/WebSocketOpcode.swift.o",
+    "swiftmodule": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/WebSocketOpcode~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/WebSocketOpcode.swiftdeps"
+  },
+  "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketProtocolErrorHandler.swift": {
+    "dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/WebSocketProtocolErrorHandler.d",
+    "object": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/WebSocketProtocolErrorHandler.swift.o",
+    "swiftmodule": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/WebSocketProtocolErrorHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/WebSocketProtocolErrorHandler.swiftdeps"
+  },
+  "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketUpgrader.swift": {
+    "dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/WebSocketUpgrader.d",
+    "object": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/WebSocketUpgrader.swift.o",
+    "swiftmodule": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/WebSocketUpgrader~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/WebSocketUpgrader.swiftdeps"
+  }
+}

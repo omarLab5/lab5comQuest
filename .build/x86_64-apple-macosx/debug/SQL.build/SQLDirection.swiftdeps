@@ -1,0 +1,147 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SQLDirection"
+- "GenericSQLDirection"
+provides-nominal:
+- "3SQL12SQLDirectionP"
+- "3SQL19GenericSQLDirectionO"
+provides-member:
+- ["3SQL12SQLDirectionP", ""]
+- ["3SQL19GenericSQLDirectionO", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- "Encodable"
+- !private "FloatLiteralType"
+- "GenericSQLDirection"
+- !private "IntegerLiteralType"
+- "SQLDirection"
+- "SQLSerializable"
+- "String"
+depends-member:
+- ["SQ", "=="]
+- ["SQ", ""]
+- ["SQ", "_ascending"]
+- ["SQ", "_descending"]
+- ["SQ", "_notNull"]
+- ["SQ", "_null"]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "ascending"]
+- ["SQ", "descending"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "notNull"]
+- ["SQ", "null"]
+- ["SQ", "serialize"]
+- ["3SQL19GenericSQLDirectionO", "=="]
+- ["3SQL19GenericSQLDirectionO", "Encodable"]
+- ["3SQL19GenericSQLDirectionO", "GenericSQLDirection"]
+- ["3SQL19GenericSQLDirectionO", "String"]
+- ["3SQL19GenericSQLDirectionO", "__derived_enum_equals"]
+- ["3SQL19GenericSQLDirectionO", "_ascending"]
+- ["3SQL19GenericSQLDirectionO", "_descending"]
+- ["3SQL19GenericSQLDirectionO", "_notNull"]
+- ["3SQL19GenericSQLDirectionO", "_null"]
+- ["3SQL19GenericSQLDirectionO", "_rawHashValue"]
+- ["3SQL19GenericSQLDirectionO", "ascending"]
+- ["3SQL19GenericSQLDirectionO", "deinit"]
+- ["3SQL19GenericSQLDirectionO", "descending"]
+- ["3SQL19GenericSQLDirectionO", "hash"]
+- ["3SQL19GenericSQLDirectionO", "hashValue"]
+- ["3SQL19GenericSQLDirectionO", "notNull"]
+- ["3SQL19GenericSQLDirectionO", "null"]
+- ["3SQL19GenericSQLDirectionO", "serialize"]
+- ["SH", "=="]
+- ["SH", ""]
+- ["SH", "_ascending"]
+- ["SH", "_descending"]
+- ["SH", "_notNull"]
+- ["SH", "_null"]
+- ["SH", "_rawHashValue"]
+- ["SH", "ascending"]
+- ["SH", "descending"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "notNull"]
+- ["SH", "null"]
+- ["SH", "serialize"]
+- !private ["s6HasherV", "combine"]
+- ["3SQL12SQLDirectionP", "=="]
+- ["3SQL12SQLDirectionP", ""]
+- ["3SQL12SQLDirectionP", "_ascending"]
+- ["3SQL12SQLDirectionP", "_descending"]
+- ["3SQL12SQLDirectionP", "_notNull"]
+- ["3SQL12SQLDirectionP", "_null"]
+- ["3SQL12SQLDirectionP", "_rawHashValue"]
+- ["3SQL12SQLDirectionP", "ascending"]
+- ["3SQL12SQLDirectionP", "descending"]
+- ["3SQL12SQLDirectionP", "hash"]
+- ["3SQL12SQLDirectionP", "hashValue"]
+- ["3SQL12SQLDirectionP", "notNull"]
+- ["3SQL12SQLDirectionP", "null"]
+- ["3SQL12SQLDirectionP", "serialize"]
+- ["3SQL15SQLSerializableP", "=="]
+- ["3SQL15SQLSerializableP", ""]
+- ["3SQL15SQLSerializableP", "_ascending"]
+- ["3SQL15SQLSerializableP", "_descending"]
+- ["3SQL15SQLSerializableP", "_notNull"]
+- ["3SQL15SQLSerializableP", "_null"]
+- ["3SQL15SQLSerializableP", "_rawHashValue"]
+- ["3SQL15SQLSerializableP", "ascending"]
+- ["3SQL15SQLSerializableP", "descending"]
+- ["3SQL15SQLSerializableP", "hash"]
+- ["3SQL15SQLSerializableP", "hashValue"]
+- ["3SQL15SQLSerializableP", "notNull"]
+- ["3SQL15SQLSerializableP", "null"]
+- ["3SQL15SQLSerializableP", "serialize"]
+depends-nominal:
+- "SQ"
+- "3SQL19GenericSQLDirectionO"
+- "SH"
+- !private "s6HasherV"
+- "3SQL12SQLDirectionP"
+- "3SQL15SQLSerializableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIO.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Async.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Service.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Core.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Debugging.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/COperatingSystem.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Bits.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOFoundationCompat.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/DatabaseKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/CNIOLinux/include/ifaddrs-android.h"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/CNIODarwin/include/CNIODarwin.h"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIOSHA1.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIOOpenSSL.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CCryptoOpenSSL.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIOZlib.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIODarwin.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIOHTTPParser.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIOAtomics.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIOLinux.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio-zlib-support/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "f42b8e42dbddb5f8a7a477fc65b2d9a7"

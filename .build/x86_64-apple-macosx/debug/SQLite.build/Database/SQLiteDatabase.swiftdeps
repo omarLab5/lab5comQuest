@@ -1,0 +1,230 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SQLiteDatabase"
+provides-nominal:
+- "6SQLite0A8DatabaseC"
+provides-member:
+- ["6SQLite0A8DatabaseC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- !private "=="
+- !private "??"
+- "AssignmentPrecedence"
+- "BlockingIOThreadPool"
+- "Database"
+- "DatabaseLogger"
+- "Future"
+- "LogSupporting"
+- !private "ObjectIdentifier"
+- "OpaquePointer"
+- !private "SQLITE_OK"
+- !private "SQLITE_OPEN_CREATE"
+- !private "SQLITE_OPEN_FULLMUTEX"
+- !private "SQLITE_OPEN_READWRITE"
+- "SQLiteConnection"
+- "SQLiteDatabase"
+- !private "SQLiteError"
+- "SQLiteStorage"
+- !private "String"
+- "Worker"
+- !private "print"
+- !private "sqlite3_busy_handler"
+- !private "sqlite3_close"
+- !private "sqlite3_open_v2"
+- !private "|"
+depends-member:
+- !private ["5Async11BasicWorkerP", "init"]
+- !private ["5Async11BasicWorkerP", "logger"]
+- !private ["3NIO20BlockingIOThreadPoolC", "init"]
+- !private ["3NIO20BlockingIOThreadPoolC", "shutdownGracefully"]
+- !private ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["11DatabaseKit0A0P", "BlockingIOThreadPool"]
+- ["11DatabaseKit0A0P", "Connection"]
+- !private ["11DatabaseKit0A0P", "ObjectIdentifier"]
+- !private ["11DatabaseKit0A0P", "SQLITE_OK"]
+- !private ["11DatabaseKit0A0P", "SQLITE_OPEN_CREATE"]
+- !private ["11DatabaseKit0A0P", "SQLITE_OPEN_FULLMUTEX"]
+- !private ["11DatabaseKit0A0P", "SQLITE_OPEN_READWRITE"]
+- !private ["11DatabaseKit0A0P", "SQLiteConnection"]
+- !private ["11DatabaseKit0A0P", "SQLiteError"]
+- ["11DatabaseKit0A0P", ""]
+- ["11DatabaseKit0A0P", "_Default_Connection"]
+- !private ["11DatabaseKit0A0P", "blockingIO"]
+- ["11DatabaseKit0A0P", "enableLogging"]
+- !private ["11DatabaseKit0A0P", "handle"]
+- ["11DatabaseKit0A0P", "newConnection"]
+- !private ["11DatabaseKit0A0P", "openConnection"]
+- !private ["11DatabaseKit0A0P", "print"]
+- !private ["11DatabaseKit0A0P", "sqlite3_busy_handler"]
+- !private ["11DatabaseKit0A0P", "sqlite3_close"]
+- !private ["11DatabaseKit0A0P", "sqlite3_open_v2"]
+- !private ["11DatabaseKit0A0P", "storage"]
+- !private ["11DatabaseKit0A11ConnectableP", "init"]
+- !private ["11DatabaseKit0A11ConnectableP", "logger"]
+- !private ["11DatabaseKit0A10ConnectionP", "init"]
+- !private ["11DatabaseKit0A10ConnectionP", "logger"]
+- !private ["11DatabaseKit0A9QueryableP", "init"]
+- !private ["11DatabaseKit0A9QueryableP", "logger"]
+- !private ["9Debugging10DebuggableP", "init"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["SQ", "error"]
+- !private ["SQ", "init"]
+- !private ["s5ErrorP", "init"]
+- !private ["3NIO14EventLoopGroupP", "future"]
+- !private ["3NIO14EventLoopGroupP", "init"]
+- !private ["3NIO14EventLoopGroupP", "logger"]
+- !private ["7Service10ExtendableP", "init"]
+- !private ["7Service10ExtendableP", "logger"]
+- !private ["SH", "error"]
+- !private ["SH", "init"]
+- !private ["10Foundation14LocalizedErrorP", "init"]
+- !private ["11DatabaseKit13LogSupportingP", "BlockingIOThreadPool"]
+- ["11DatabaseKit13LogSupportingP", "Connection"]
+- !private ["11DatabaseKit13LogSupportingP", "ObjectIdentifier"]
+- !private ["11DatabaseKit13LogSupportingP", "SQLITE_OK"]
+- !private ["11DatabaseKit13LogSupportingP", "SQLITE_OPEN_CREATE"]
+- !private ["11DatabaseKit13LogSupportingP", "SQLITE_OPEN_FULLMUTEX"]
+- !private ["11DatabaseKit13LogSupportingP", "SQLITE_OPEN_READWRITE"]
+- !private ["11DatabaseKit13LogSupportingP", "SQLiteConnection"]
+- !private ["11DatabaseKit13LogSupportingP", "SQLiteError"]
+- ["11DatabaseKit13LogSupportingP", ""]
+- ["11DatabaseKit13LogSupportingP", "_Default_Connection"]
+- !private ["11DatabaseKit13LogSupportingP", "blockingIO"]
+- ["11DatabaseKit13LogSupportingP", "enableLogging"]
+- !private ["11DatabaseKit13LogSupportingP", "handle"]
+- ["11DatabaseKit13LogSupportingP", "newConnection"]
+- !private ["11DatabaseKit13LogSupportingP", "openConnection"]
+- !private ["11DatabaseKit13LogSupportingP", "print"]
+- !private ["11DatabaseKit13LogSupportingP", "sqlite3_busy_handler"]
+- !private ["11DatabaseKit13LogSupportingP", "sqlite3_close"]
+- !private ["11DatabaseKit13LogSupportingP", "sqlite3_open_v2"]
+- !private ["11DatabaseKit13LogSupportingP", "storage"]
+- !private ["SO", "init"]
+- !private ["6SQLite7ProblemO", "error"]
+- !private ["SY", "error"]
+- !private ["3SQL14SQLConnectableP", "init"]
+- !private ["3SQL14SQLConnectableP", "logger"]
+- !private ["3SQL13SQLConnectionP", "init"]
+- !private ["3SQL13SQLConnectionP", "logger"]
+- ["6SQLite0A10ConnectionC", "deinit"]
+- !private ["6SQLite0A10ConnectionC", "init"]
+- !private ["6SQLite0A10ConnectionC", "logger"]
+- ["6SQLite0A8DatabaseC", "BlockingIOThreadPool"]
+- ["6SQLite0A8DatabaseC", "Connection"]
+- ["6SQLite0A8DatabaseC", "DatabaseLogger"]
+- ["6SQLite0A8DatabaseC", "Future"]
+- !private ["6SQLite0A8DatabaseC", "ObjectIdentifier"]
+- ["6SQLite0A8DatabaseC", "OpaquePointer"]
+- !private ["6SQLite0A8DatabaseC", "SQLITE_OK"]
+- !private ["6SQLite0A8DatabaseC", "SQLITE_OPEN_CREATE"]
+- !private ["6SQLite0A8DatabaseC", "SQLITE_OPEN_FULLMUTEX"]
+- !private ["6SQLite0A8DatabaseC", "SQLITE_OPEN_READWRITE"]
+- ["6SQLite0A8DatabaseC", "SQLiteConnection"]
+- !private ["6SQLite0A8DatabaseC", "SQLiteError"]
+- ["6SQLite0A8DatabaseC", "SQLiteStorage"]
+- !private ["6SQLite0A8DatabaseC", "String"]
+- ["6SQLite0A8DatabaseC", "Worker"]
+- ["6SQLite0A8DatabaseC", "_Default_Connection"]
+- ["6SQLite0A8DatabaseC", "blockingIO"]
+- ["6SQLite0A8DatabaseC", "deinit"]
+- ["6SQLite0A8DatabaseC", "enableLogging"]
+- !private ["6SQLite0A8DatabaseC", "handle"]
+- ["6SQLite0A8DatabaseC", "init"]
+- ["6SQLite0A8DatabaseC", "newConnection"]
+- ["6SQLite0A8DatabaseC", "openConnection"]
+- !private ["6SQLite0A8DatabaseC", "print"]
+- !private ["6SQLite0A8DatabaseC", "sqlite3_busy_handler"]
+- !private ["6SQLite0A8DatabaseC", "sqlite3_close"]
+- !private ["6SQLite0A8DatabaseC", "sqlite3_open_v2"]
+- ["6SQLite0A8DatabaseC", "storage"]
+- !private ["6SQLite0A5ErrorV", "deinit"]
+- !private ["6SQLite0A5ErrorV", "init"]
+- ["6SQLite0A7StorageO", "file"]
+- ["6SQLite0A7StorageO", "memory"]
+- !private ["9Debugging14SourceLocationV", "capture"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+depends-nominal:
+- !private "5Async11BasicWorkerP"
+- !private "3NIO20BlockingIOThreadPoolC"
+- !private "SL"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s23CustomStringConvertibleP"
+- "11DatabaseKit0A0P"
+- !private "11DatabaseKit0A11ConnectableP"
+- !private "11DatabaseKit0A10ConnectionP"
+- !private "11DatabaseKit0A9QueryableP"
+- !private "9Debugging10DebuggableP"
+- !private "s26DefaultStringInterpolationV"
+- !private "SQ"
+- !private "s5ErrorP"
+- !private "3NIO14EventLoopGroupP"
+- !private "7Service10ExtendableP"
+- !private "SH"
+- !private "10Foundation14LocalizedErrorP"
+- "11DatabaseKit13LogSupportingP"
+- !private "SO"
+- !private "6SQLite7ProblemO"
+- !private "SY"
+- !private "3SQL14SQLConnectableP"
+- !private "3SQL13SQLConnectionP"
+- "6SQLite0A10ConnectionC"
+- "6SQLite0A8DatabaseC"
+- !private "6SQLite0A5ErrorV"
+- "6SQLite0A7StorageO"
+- !private "9Debugging14SourceLocationV"
+- !private "s27StringInterpolationProtocolP"
+- !private "s16TextOutputStreamP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/SQL.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIO.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Async.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Service.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Core.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Debugging.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/COperatingSystem.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Bits.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOFoundationCompat.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/DatabaseKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/CNIOLinux/include/ifaddrs-android.h"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/CNIODarwin/include/CNIODarwin.h"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIOSHA1.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIOOpenSSL.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CCryptoOpenSSL.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIOZlib.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIODarwin.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIOHTTPParser.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIOAtomics.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIOLinux.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio-zlib-support/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "12ca368a013aff4b157d62f21b08795d"

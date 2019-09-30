@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "0c07ddd0a54842bee160bc58c6175e05"
+build_time: [1569847819, 381045000]
+inputs:
+  "/Users/macbook/lab5comQuest/.build/checkouts/console/Sources/Command/Base/CommandOption.swift": [1569847764, 310038858]
+  "/Users/macbook/lab5comQuest/.build/checkouts/console/Sources/Command/Base/CommandRunnable.swift": [1569847764, 310194122]
+  "/Users/macbook/lab5comQuest/.build/checkouts/console/Sources/Command/Command/Command.swift": [1569847764, 310440157]
+  "/Users/macbook/lab5comQuest/.build/checkouts/console/Sources/Command/Command/CommandArgument.swift": [1569847764, 310589974]
+  "/Users/macbook/lab5comQuest/.build/checkouts/console/Sources/Command/Config/CommandConfig.swift": [1569847764, 310809385]
+  "/Users/macbook/lab5comQuest/.build/checkouts/console/Sources/Command/Config/Commands.swift": [1569847764, 310989309]
+  "/Users/macbook/lab5comQuest/.build/checkouts/console/Sources/Command/Group/BasicCommandGroup.swift": [1569847764, 311190709]
+  "/Users/macbook/lab5comQuest/.build/checkouts/console/Sources/Command/Group/CommandGroup.swift": [1569847764, 311320843]
+  "/Users/macbook/lab5comQuest/.build/checkouts/console/Sources/Command/Run/CommandContext.swift": [1569847764, 311532052]
+  "/Users/macbook/lab5comQuest/.build/checkouts/console/Sources/Command/Run/CommandInput.swift": [1569847764, 311919855]
+  "/Users/macbook/lab5comQuest/.build/checkouts/console/Sources/Command/Run/Console+Run.swift": [1569847764, 312142521]
+  "/Users/macbook/lab5comQuest/.build/checkouts/console/Sources/Command/Run/Output+Autocomplete.swift": [1569847764, 312333607]
+  "/Users/macbook/lab5comQuest/.build/checkouts/console/Sources/Command/Run/Output+Help.swift": [1569847764, 312495620]
+  "/Users/macbook/lab5comQuest/.build/checkouts/console/Sources/Command/Utilities/CommandError.swift": [1569847764, 312727824]
+  "/Users/macbook/lab5comQuest/.build/checkouts/console/Sources/Command/Utilities/Exports.swift": [1569847764, 312852213]
+  "/Users/macbook/lab5comQuest/.build/checkouts/console/Sources/Command/Utilities/Utilities.swift": [1569847764, 312984296]

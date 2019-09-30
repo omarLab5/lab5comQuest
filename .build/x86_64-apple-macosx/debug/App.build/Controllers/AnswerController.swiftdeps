@@ -1,0 +1,554 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "AnswerController"
+provides-nominal:
+- "3App16AnswerControllerC"
+provides-member:
+- ["3App16AnswerControllerC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "Answer"
+- "AnswerController"
+- !private "AssignmentPrecedence"
+- "Future"
+- "HTTPStatus"
+- "InfoAnswerQuestion"
+- "Request"
+- "RouteCollection"
+- "Router"
+- !private "StringLiteralType"
+- "User"
+- !private "flatMap"
+depends-member:
+- !private ["3App6AnswerC", "answerSubject"]
+- !private ["3App6AnswerC", "answerTitle"]
+- !private ["3App6AnswerC", "deinit"]
+- !private ["3App6AnswerC", "delete"]
+- !private ["3App6AnswerC", "infos"]
+- !private ["3App6AnswerC", "mediaID"]
+- !private ["3App6AnswerC", "parameter"]
+- !private ["3App6AnswerC", "query"]
+- !private ["3App6AnswerC", "save"]
+- !private ["3App6AnswerC", "user"]
+- !private ["3App6AnswerC", "userID"]
+- ["3App16AnswerControllerC", "Answer"]
+- ["3App16AnswerControllerC", "Future"]
+- ["3App16AnswerControllerC", "HTTPStatus"]
+- ["3App16AnswerControllerC", "InfoAnswerQuestion"]
+- ["3App16AnswerControllerC", "Request"]
+- ["3App16AnswerControllerC", "Router"]
+- ["3App16AnswerControllerC", "User"]
+- ["3App16AnswerControllerC", "boot"]
+- ["3App16AnswerControllerC", "createHandler"]
+- ["3App16AnswerControllerC", "deinit"]
+- ["3App16AnswerControllerC", "deleteHandler"]
+- !private ["3App16AnswerControllerC", "flatMap"]
+- ["3App16AnswerControllerC", "getAllHandler"]
+- ["3App16AnswerControllerC", "getAnswersQuestHandler"]
+- ["3App16AnswerControllerC", "getInfosHandler"]
+- ["3App16AnswerControllerC", "getOneHandler"]
+- ["3App16AnswerControllerC", "getUserHandler"]
+- ["3App16AnswerControllerC", "init"]
+- ["3App16AnswerControllerC", "updateHandler"]
+- ["6Fluent12AnyMigrationP", "Public"]
+- !private ["6Fluent12AnyMigrationP", "answerSubject"]
+- !private ["6Fluent12AnyMigrationP", "answerTitle"]
+- !private ["6Fluent12AnyMigrationP", "delete"]
+- !private ["6Fluent12AnyMigrationP", "guardAuthMiddleware"]
+- !private ["6Fluent12AnyMigrationP", "infos"]
+- !private ["6Fluent12AnyMigrationP", "mediaID"]
+- !private ["6Fluent12AnyMigrationP", "parameter"]
+- !private ["6Fluent12AnyMigrationP", "query"]
+- !private ["6Fluent12AnyMigrationP", "save"]
+- !private ["6Fluent12AnyMigrationP", "tokenAuthMiddleware"]
+- !private ["6Fluent12AnyMigrationP", "user"]
+- !private ["6Fluent12AnyMigrationP", "userID"]
+- ["6Fluent8AnyModelP", "Public"]
+- !private ["6Fluent8AnyModelP", "answerSubject"]
+- !private ["6Fluent8AnyModelP", "answerTitle"]
+- !private ["6Fluent8AnyModelP", "delete"]
+- !private ["6Fluent8AnyModelP", "guardAuthMiddleware"]
+- !private ["6Fluent8AnyModelP", "infos"]
+- !private ["6Fluent8AnyModelP", "mediaID"]
+- !private ["6Fluent8AnyModelP", "parameter"]
+- !private ["6Fluent8AnyModelP", "query"]
+- !private ["6Fluent8AnyModelP", "save"]
+- !private ["6Fluent8AnyModelP", "tokenAuthMiddleware"]
+- !private ["6Fluent8AnyModelP", "user"]
+- !private ["6Fluent8AnyModelP", "userID"]
+- ["4Core14AnyReflectableP", "Public"]
+- !private ["4Core14AnyReflectableP", "answerSubject"]
+- !private ["4Core14AnyReflectableP", "answerTitle"]
+- !private ["4Core14AnyReflectableP", "delete"]
+- !private ["4Core14AnyReflectableP", "guardAuthMiddleware"]
+- !private ["4Core14AnyReflectableP", "infos"]
+- !private ["4Core14AnyReflectableP", "mediaID"]
+- !private ["4Core14AnyReflectableP", "parameter"]
+- !private ["4Core14AnyReflectableP", "query"]
+- !private ["4Core14AnyReflectableP", "save"]
+- !private ["4Core14AnyReflectableP", "tokenAuthMiddleware"]
+- !private ["4Core14AnyReflectableP", "user"]
+- !private ["4Core14AnyReflectableP", "userID"]
+- ["3SQL11AnySQLTableP", "Public"]
+- !private ["3SQL11AnySQLTableP", "answerSubject"]
+- !private ["3SQL11AnySQLTableP", "answerTitle"]
+- !private ["3SQL11AnySQLTableP", "delete"]
+- !private ["3SQL11AnySQLTableP", "guardAuthMiddleware"]
+- !private ["3SQL11AnySQLTableP", "infos"]
+- !private ["3SQL11AnySQLTableP", "mediaID"]
+- !private ["3SQL11AnySQLTableP", "parameter"]
+- !private ["3SQL11AnySQLTableP", "query"]
+- !private ["3SQL11AnySQLTableP", "save"]
+- !private ["3SQL11AnySQLTableP", "tokenAuthMiddleware"]
+- !private ["3SQL11AnySQLTableP", "user"]
+- !private ["3SQL11AnySQLTableP", "userID"]
+- ["14Authentication15AuthenticatableP", "Public"]
+- !private ["14Authentication15AuthenticatableP", "guardAuthMiddleware"]
+- !private ["14Authentication15AuthenticatableP", "tokenAuthMiddleware"]
+- ["14Authentication20BasicAuthenticatableP", "Public"]
+- !private ["14Authentication20BasicAuthenticatableP", "guardAuthMiddleware"]
+- !private ["14Authentication20BasicAuthenticatableP", "tokenAuthMiddleware"]
+- !private ["5Async11BasicWorkerP", "content"]
+- !private ["5Async11BasicWorkerP", "parameters"]
+- !private ["6Fluent8ChildrenV", "query"]
+- !private ["7Service9ContainerP", "content"]
+- !private ["7Service9ContainerP", "parameters"]
+- !private ["7Service14ContainerAliasP", "content"]
+- !private ["7Service14ContainerAliasP", "parameters"]
+- ["5Vapor7ContentP", "Public"]
+- !private ["5Vapor7ContentP", "answerSubject"]
+- !private ["5Vapor7ContentP", "answerTitle"]
+- !private ["5Vapor7ContentP", "delete"]
+- !private ["5Vapor7ContentP", "guardAuthMiddleware"]
+- !private ["5Vapor7ContentP", "infos"]
+- !private ["5Vapor7ContentP", "mediaID"]
+- !private ["5Vapor7ContentP", "parameter"]
+- !private ["5Vapor7ContentP", "query"]
+- !private ["5Vapor7ContentP", "save"]
+- !private ["5Vapor7ContentP", "tokenAuthMiddleware"]
+- !private ["5Vapor7ContentP", "user"]
+- !private ["5Vapor7ContentP", "userID"]
+- !private ["5Vapor16ContentContainerV", "decode"]
+- !private ["s28CustomDebugStringConvertibleP", "content"]
+- !private ["s28CustomDebugStringConvertibleP", "parameters"]
+- !private ["s23CustomStringConvertibleP", "content"]
+- !private ["s23CustomStringConvertibleP", "parameters"]
+- !private ["11DatabaseKit0A11ConnectableP", "content"]
+- !private ["11DatabaseKit0A11ConnectableP", "parameters"]
+- ["Se", "Public"]
+- !private ["Se", "answerSubject"]
+- !private ["Se", "answerTitle"]
+- !private ["Se", "delete"]
+- !private ["Se", "guardAuthMiddleware"]
+- !private ["Se", "infos"]
+- !private ["Se", "mediaID"]
+- !private ["Se", "parameter"]
+- !private ["Se", "query"]
+- !private ["Se", "save"]
+- !private ["Se", "tokenAuthMiddleware"]
+- !private ["Se", "user"]
+- !private ["Se", "userID"]
+- ["SE", "Public"]
+- !private ["SE", "answerSubject"]
+- !private ["SE", "answerTitle"]
+- !private ["SE", "delete"]
+- !private ["SE", "flatMap"]
+- !private ["SE", "guardAuthMiddleware"]
+- !private ["SE", "infos"]
+- !private ["SE", "mediaID"]
+- !private ["SE", "parameter"]
+- !private ["SE", "query"]
+- !private ["SE", "save"]
+- !private ["SE", "toPublic"]
+- !private ["SE", "tokenAuthMiddleware"]
+- !private ["SE", "transform"]
+- !private ["SE", "user"]
+- !private ["SE", "userID"]
+- !private ["SQ", "flatMap"]
+- !private ["SQ", "noContent"]
+- !private ["SQ", "toPublic"]
+- !private ["SQ", "transform"]
+- !private ["3NIO15EventLoopFutureC", "flatMap"]
+- !private ["3NIO15EventLoopFutureC", "toPublic"]
+- !private ["3NIO15EventLoopFutureC", "transform"]
+- !private ["3NIO14EventLoopGroupP", "content"]
+- !private ["3NIO14EventLoopGroupP", "parameters"]
+- !private ["5Async10FutureTypeP", "flatMap"]
+- !private ["5Async10FutureTypeP", "toPublic"]
+- !private ["5Async10FutureTypeP", "transform"]
+- !private ["5Vapor20HTTPMessageContainerP", "content"]
+- !private ["5Vapor20HTTPMessageContainerP", "parameters"]
+- !private ["8NIOHTTP118HTTPResponseStatusO", "noContent"]
+- !private ["3App18InfoAnswerQuestionC", "deinit"]
+- ["6Fluent9MigrationP", "Public"]
+- !private ["6Fluent9MigrationP", "answerSubject"]
+- !private ["6Fluent9MigrationP", "answerTitle"]
+- !private ["6Fluent9MigrationP", "delete"]
+- !private ["6Fluent9MigrationP", "guardAuthMiddleware"]
+- !private ["6Fluent9MigrationP", "infos"]
+- !private ["6Fluent9MigrationP", "mediaID"]
+- !private ["6Fluent9MigrationP", "parameter"]
+- !private ["6Fluent9MigrationP", "query"]
+- !private ["6Fluent9MigrationP", "save"]
+- !private ["6Fluent9MigrationP", "tokenAuthMiddleware"]
+- !private ["6Fluent9MigrationP", "user"]
+- !private ["6Fluent9MigrationP", "userID"]
+- ["6Fluent5ModelP", "Public"]
+- !private ["6Fluent5ModelP", "answerSubject"]
+- !private ["6Fluent5ModelP", "answerTitle"]
+- !private ["6Fluent5ModelP", "delete"]
+- !private ["6Fluent5ModelP", "guardAuthMiddleware"]
+- !private ["6Fluent5ModelP", "infos"]
+- !private ["6Fluent5ModelP", "mediaID"]
+- !private ["6Fluent5ModelP", "parameter"]
+- !private ["6Fluent5ModelP", "query"]
+- !private ["6Fluent5ModelP", "save"]
+- !private ["6Fluent5ModelP", "tokenAuthMiddleware"]
+- !private ["6Fluent5ModelP", "user"]
+- !private ["6Fluent5ModelP", "userID"]
+- ["7Routing9ParameterP", "Public"]
+- !private ["7Routing9ParameterP", "answerSubject"]
+- !private ["7Routing9ParameterP", "answerTitle"]
+- !private ["7Routing9ParameterP", "delete"]
+- !private ["7Routing9ParameterP", "guardAuthMiddleware"]
+- !private ["7Routing9ParameterP", "infos"]
+- !private ["7Routing9ParameterP", "mediaID"]
+- !private ["7Routing9ParameterP", "parameter"]
+- !private ["7Routing9ParameterP", "query"]
+- !private ["7Routing9ParameterP", "save"]
+- !private ["7Routing9ParameterP", "tokenAuthMiddleware"]
+- !private ["7Routing9ParameterP", "user"]
+- !private ["7Routing9ParameterP", "userID"]
+- !private ["5Vapor19ParametersContainerV", "next"]
+- !private ["6Fluent6ParentV", "get"]
+- !private ["3App4UserC6PublicC", "deinit"]
+- !private ["6Fluent12QueryBuilderC", "all"]
+- !private ["6Fluent12QueryBuilderC", "decode"]
+- ["4Core11ReflectableP", "Public"]
+- !private ["4Core11ReflectableP", "answerSubject"]
+- !private ["4Core11ReflectableP", "answerTitle"]
+- !private ["4Core11ReflectableP", "delete"]
+- !private ["4Core11ReflectableP", "guardAuthMiddleware"]
+- !private ["4Core11ReflectableP", "infos"]
+- !private ["4Core11ReflectableP", "mediaID"]
+- !private ["4Core11ReflectableP", "parameter"]
+- !private ["4Core11ReflectableP", "query"]
+- !private ["4Core11ReflectableP", "save"]
+- !private ["4Core11ReflectableP", "tokenAuthMiddleware"]
+- !private ["4Core11ReflectableP", "user"]
+- !private ["4Core11ReflectableP", "userID"]
+- !private ["5Vapor7RequestC", "content"]
+- !private ["5Vapor7RequestC", "parameters"]
+- ["5Vapor16RequestDecodableP", "Public"]
+- !private ["5Vapor16RequestDecodableP", "answerSubject"]
+- !private ["5Vapor16RequestDecodableP", "answerTitle"]
+- !private ["5Vapor16RequestDecodableP", "content"]
+- !private ["5Vapor16RequestDecodableP", "delete"]
+- !private ["5Vapor16RequestDecodableP", "guardAuthMiddleware"]
+- !private ["5Vapor16RequestDecodableP", "infos"]
+- !private ["5Vapor16RequestDecodableP", "mediaID"]
+- !private ["5Vapor16RequestDecodableP", "parameter"]
+- !private ["5Vapor16RequestDecodableP", "parameters"]
+- !private ["5Vapor16RequestDecodableP", "query"]
+- !private ["5Vapor16RequestDecodableP", "save"]
+- !private ["5Vapor16RequestDecodableP", "tokenAuthMiddleware"]
+- !private ["5Vapor16RequestDecodableP", "user"]
+- !private ["5Vapor16RequestDecodableP", "userID"]
+- ["5Vapor16RequestEncodableP", "Public"]
+- !private ["5Vapor16RequestEncodableP", "answerSubject"]
+- !private ["5Vapor16RequestEncodableP", "answerTitle"]
+- !private ["5Vapor16RequestEncodableP", "content"]
+- !private ["5Vapor16RequestEncodableP", "delete"]
+- !private ["5Vapor16RequestEncodableP", "guardAuthMiddleware"]
+- !private ["5Vapor16RequestEncodableP", "infos"]
+- !private ["5Vapor16RequestEncodableP", "mediaID"]
+- !private ["5Vapor16RequestEncodableP", "parameter"]
+- !private ["5Vapor16RequestEncodableP", "parameters"]
+- !private ["5Vapor16RequestEncodableP", "query"]
+- !private ["5Vapor16RequestEncodableP", "save"]
+- !private ["5Vapor16RequestEncodableP", "tokenAuthMiddleware"]
+- !private ["5Vapor16RequestEncodableP", "user"]
+- !private ["5Vapor16RequestEncodableP", "userID"]
+- ["5Vapor17ResponseDecodableP", "Public"]
+- !private ["5Vapor17ResponseDecodableP", "answerSubject"]
+- !private ["5Vapor17ResponseDecodableP", "answerTitle"]
+- !private ["5Vapor17ResponseDecodableP", "delete"]
+- !private ["5Vapor17ResponseDecodableP", "guardAuthMiddleware"]
+- !private ["5Vapor17ResponseDecodableP", "infos"]
+- !private ["5Vapor17ResponseDecodableP", "mediaID"]
+- !private ["5Vapor17ResponseDecodableP", "parameter"]
+- !private ["5Vapor17ResponseDecodableP", "query"]
+- !private ["5Vapor17ResponseDecodableP", "save"]
+- !private ["5Vapor17ResponseDecodableP", "tokenAuthMiddleware"]
+- !private ["5Vapor17ResponseDecodableP", "user"]
+- !private ["5Vapor17ResponseDecodableP", "userID"]
+- ["5Vapor17ResponseEncodableP", "Public"]
+- !private ["5Vapor17ResponseEncodableP", "answerSubject"]
+- !private ["5Vapor17ResponseEncodableP", "answerTitle"]
+- !private ["5Vapor17ResponseEncodableP", "delete"]
+- !private ["5Vapor17ResponseEncodableP", "flatMap"]
+- !private ["5Vapor17ResponseEncodableP", "guardAuthMiddleware"]
+- !private ["5Vapor17ResponseEncodableP", "infos"]
+- !private ["5Vapor17ResponseEncodableP", "mediaID"]
+- !private ["5Vapor17ResponseEncodableP", "noContent"]
+- !private ["5Vapor17ResponseEncodableP", "parameter"]
+- !private ["5Vapor17ResponseEncodableP", "query"]
+- !private ["5Vapor17ResponseEncodableP", "save"]
+- !private ["5Vapor17ResponseEncodableP", "toPublic"]
+- !private ["5Vapor17ResponseEncodableP", "tokenAuthMiddleware"]
+- !private ["5Vapor17ResponseEncodableP", "transform"]
+- !private ["5Vapor17ResponseEncodableP", "user"]
+- !private ["5Vapor17ResponseEncodableP", "userID"]
+- !private ["5Vapor15RouteCollectionP", "Answer"]
+- !private ["5Vapor15RouteCollectionP", "HTTPStatus"]
+- !private ["5Vapor15RouteCollectionP", "InfoAnswerQuestion"]
+- !private ["5Vapor15RouteCollectionP", "User"]
+- ["5Vapor15RouteCollectionP", ""]
+- ["5Vapor15RouteCollectionP", "boot"]
+- !private ["5Vapor15RouteCollectionP", "createHandler"]
+- !private ["5Vapor15RouteCollectionP", "deleteHandler"]
+- !private ["5Vapor15RouteCollectionP", "flatMap"]
+- !private ["5Vapor15RouteCollectionP", "getAllHandler"]
+- !private ["5Vapor15RouteCollectionP", "getInfosHandler"]
+- !private ["5Vapor15RouteCollectionP", "getOneHandler"]
+- !private ["5Vapor15RouteCollectionP", "getUserHandler"]
+- !private ["5Vapor15RouteCollectionP", "updateHandler"]
+- !private ["5Vapor6RouterP", "delete"]
+- !private ["5Vapor6RouterP", "get"]
+- !private ["5Vapor6RouterP", "grouped"]
+- !private ["5Vapor6RouterP", "post"]
+- !private ["5Vapor6RouterP", "put"]
+- ["3SQL8SQLTableP", "Public"]
+- !private ["3SQL8SQLTableP", "answerSubject"]
+- !private ["3SQL8SQLTableP", "answerTitle"]
+- !private ["3SQL8SQLTableP", "delete"]
+- !private ["3SQL8SQLTableP", "guardAuthMiddleware"]
+- !private ["3SQL8SQLTableP", "infos"]
+- !private ["3SQL8SQLTableP", "mediaID"]
+- !private ["3SQL8SQLTableP", "parameter"]
+- !private ["3SQL8SQLTableP", "query"]
+- !private ["3SQL8SQLTableP", "save"]
+- !private ["3SQL8SQLTableP", "tokenAuthMiddleware"]
+- !private ["3SQL8SQLTableP", "user"]
+- !private ["3SQL8SQLTableP", "userID"]
+- ["12FluentSQLite0B5ModelP", "Public"]
+- !private ["12FluentSQLite0B5ModelP", "answerSubject"]
+- !private ["12FluentSQLite0B5ModelP", "answerTitle"]
+- !private ["12FluentSQLite0B5ModelP", "delete"]
+- !private ["12FluentSQLite0B5ModelP", "guardAuthMiddleware"]
+- !private ["12FluentSQLite0B5ModelP", "infos"]
+- !private ["12FluentSQLite0B5ModelP", "mediaID"]
+- !private ["12FluentSQLite0B5ModelP", "parameter"]
+- !private ["12FluentSQLite0B5ModelP", "query"]
+- !private ["12FluentSQLite0B5ModelP", "save"]
+- !private ["12FluentSQLite0B5ModelP", "tokenAuthMiddleware"]
+- !private ["12FluentSQLite0B5ModelP", "user"]
+- !private ["12FluentSQLite0B5ModelP", "userID"]
+- ["12FluentSQLite0B5TableP", "Public"]
+- !private ["12FluentSQLite0B5TableP", "answerSubject"]
+- !private ["12FluentSQLite0B5TableP", "answerTitle"]
+- !private ["12FluentSQLite0B5TableP", "delete"]
+- !private ["12FluentSQLite0B5TableP", "guardAuthMiddleware"]
+- !private ["12FluentSQLite0B5TableP", "infos"]
+- !private ["12FluentSQLite0B5TableP", "mediaID"]
+- !private ["12FluentSQLite0B5TableP", "parameter"]
+- !private ["12FluentSQLite0B5TableP", "query"]
+- !private ["12FluentSQLite0B5TableP", "save"]
+- !private ["12FluentSQLite0B5TableP", "tokenAuthMiddleware"]
+- !private ["12FluentSQLite0B5TableP", "user"]
+- !private ["12FluentSQLite0B5TableP", "userID"]
+- !private ["7ServiceAAP", "delete"]
+- !private ["7ServiceAAP", "get"]
+- !private ["7ServiceAAP", "grouped"]
+- !private ["7ServiceAAP", "post"]
+- !private ["7ServiceAAP", "put"]
+- ["14Authentication20TokenAuthenticatableP", "Public"]
+- !private ["14Authentication20TokenAuthenticatableP", "guardAuthMiddleware"]
+- !private ["14Authentication20TokenAuthenticatableP", "tokenAuthMiddleware"]
+- ["3App4UserC", "Public"]
+- !private ["3App4UserC", "deinit"]
+- !private ["3App4UserC", "guardAuthMiddleware"]
+- !private ["3App4UserC", "tokenAuthMiddleware"]
+- ["10Validation11ValidatableP", "Public"]
+- !private ["10Validation11ValidatableP", "guardAuthMiddleware"]
+- !private ["10Validation11ValidatableP", "tokenAuthMiddleware"]
+- ["12FluentSQLite01_B5ModelP", "Public"]
+- !private ["12FluentSQLite01_B5ModelP", "answerSubject"]
+- !private ["12FluentSQLite01_B5ModelP", "answerTitle"]
+- !private ["12FluentSQLite01_B5ModelP", "delete"]
+- !private ["12FluentSQLite01_B5ModelP", "guardAuthMiddleware"]
+- !private ["12FluentSQLite01_B5ModelP", "infos"]
+- !private ["12FluentSQLite01_B5ModelP", "mediaID"]
+- !private ["12FluentSQLite01_B5ModelP", "parameter"]
+- !private ["12FluentSQLite01_B5ModelP", "query"]
+- !private ["12FluentSQLite01_B5ModelP", "save"]
+- !private ["12FluentSQLite01_B5ModelP", "tokenAuthMiddleware"]
+- !private ["12FluentSQLite01_B5ModelP", "user"]
+- !private ["12FluentSQLite01_B5ModelP", "userID"]
+depends-nominal:
+- !private "3App6AnswerC"
+- "3App16AnswerControllerC"
+- "6Fluent12AnyMigrationP"
+- "6Fluent8AnyModelP"
+- "4Core14AnyReflectableP"
+- "3SQL11AnySQLTableP"
+- "14Authentication15AuthenticatableP"
+- "14Authentication20BasicAuthenticatableP"
+- !private "5Async11BasicWorkerP"
+- !private "6Fluent8ChildrenV"
+- !private "7Service9ContainerP"
+- !private "7Service14ContainerAliasP"
+- "5Vapor7ContentP"
+- !private "5Vapor16ContentContainerV"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s23CustomStringConvertibleP"
+- !private "11DatabaseKit0A11ConnectableP"
+- "Se"
+- "SE"
+- !private "SQ"
+- !private "3NIO15EventLoopFutureC"
+- !private "3NIO14EventLoopGroupP"
+- !private "5Async10FutureTypeP"
+- !private "5Vapor20HTTPMessageContainerP"
+- !private "8NIOHTTP118HTTPResponseStatusO"
+- !private "3App18InfoAnswerQuestionC"
+- "6Fluent9MigrationP"
+- "6Fluent5ModelP"
+- "7Routing9ParameterP"
+- !private "5Vapor19ParametersContainerV"
+- !private "6Fluent6ParentV"
+- !private "3App4UserC6PublicC"
+- !private "6Fluent12QueryBuilderC"
+- "4Core11ReflectableP"
+- !private "5Vapor7RequestC"
+- "5Vapor16RequestDecodableP"
+- "5Vapor16RequestEncodableP"
+- "5Vapor17ResponseDecodableP"
+- "5Vapor17ResponseEncodableP"
+- "5Vapor15RouteCollectionP"
+- !private "5Vapor6RouterP"
+- "3SQL8SQLTableP"
+- "12FluentSQLite0B5ModelP"
+- "12FluentSQLite0B5TableP"
+- !private "7ServiceAAP"
+- "14Authentication20TokenAuthenticatableP"
+- "3App4UserC"
+- "10Validation11ValidatableP"
+- "12FluentSQLite01_B5ModelP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOHTTP1.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/SQL.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/FluentSQL.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOOpenSSL.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIO.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/HTTP.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOTLS.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Async.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Command.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Service.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Console.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Core.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/SQLite.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/FluentSQLite.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Logging.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Debugging.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Routing.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/COperatingSystem.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Random.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/URLEncodedForm.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Authentication.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Validation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Crypto.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Vapor.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Bits.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOFoundationCompat.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/WebSocket.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/DatabaseKit.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/TemplateKit.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Fluent.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Multipart.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/CNIOSHA1/include/CNIOSHA1.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/asn1.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/tls1.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/dtls1.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/pkcs12.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/ssl2.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/pem2.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/ssl23.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/ssl3.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/x509v3.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/md5.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/pkcs7.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/x509.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/sha.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/dsa.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/ecdsa.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/rsa.h"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/CNIOZlib/include/CNIOZlib.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/obj_mac.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/hmac.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/ec.h"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/CNIOLinux/include/ifaddrs-android.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/rand.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/conf.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/opensslconf.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/dh.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/ecdh.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/lhash.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/stack.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/safestack.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/ssl.h"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio-ssl/Sources/CNIOOpenSSL/include/c_nio_openssl.h"
+- "/Users/macbook/lab5comQuest/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include/c_crypto_openssl.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/pem.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/bn.h"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/CNIODarwin/include/CNIODarwin.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/bio.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/crypto.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/srtp.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/evp.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/ossl_typ.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/buffer.h"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include/CNIOHTTPParser.h"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include/c_nio_http_parser.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/err.h"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/opensslfeatures.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/objects.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/opensslv.h"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/x509_vfy.h"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIOSHA1.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIOOpenSSL.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CCryptoOpenSSL.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIOZlib.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIODarwin.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIOHTTPParser.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIOAtomics.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIOLinux.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/checkouts/crypto/Sources/CBase32/include/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/checkouts/crypto/Sources/CBcrypt/include/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio-zlib-support/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio-ssl-support/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "1e2745509470430935a3b1f077ae9af1"

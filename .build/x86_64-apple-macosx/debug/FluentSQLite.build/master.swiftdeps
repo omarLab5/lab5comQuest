@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "3bbb5d67f86e1891c4bcb184f768e471"
+build_time: [1569847827, 929644000]
+inputs:
+  "/Users/macbook/lab5comQuest/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/Exports.swift": [1569847761, 999885899]
+  "/Users/macbook/lab5comQuest/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/FluentSQLiteError.swift": [1569847762, 25466]
+  "/Users/macbook/lab5comQuest/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/FluentSQLiteProvider.swift": [1569847762, 199277]
+  "/Users/macbook/lab5comQuest/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/FluentSQLiteQuery.swift": [1569847762, 416381]
+  "/Users/macbook/lab5comQuest/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/FluentSQLiteSchema.swift": [1569847762, 684027]
+  "/Users/macbook/lab5comQuest/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/SQLiteDatabase+JoinSupporting.swift": [1569847762, 991806]
+  "/Users/macbook/lab5comQuest/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/SQLiteDatabase+MigrationSupporting.swift": [1569847762, 1173831]
+  "/Users/macbook/lab5comQuest/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/SQLiteDatabase+QuerySupporting.swift": [1569847762, 1651161]
+  "/Users/macbook/lab5comQuest/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/SQLiteDatabase+SchemaSupporting.swift": [1569847762, 1885764]
+  "/Users/macbook/lab5comQuest/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/SQLiteDatabase+TransactionSupporting.swift": [1569847762, 2208107]
+  "/Users/macbook/lab5comQuest/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/SQLiteModels.swift": [1569847762, 2540962]
+  "/Users/macbook/lab5comQuest/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/SQLiteTypes.swift": [1569847762, 2758040]

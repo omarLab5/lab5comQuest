@@ -1,0 +1,232 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SQLiteCreateTable"
+provides-nominal:
+- "6SQLite0A11CreateTableV"
+provides-member:
+- ["3SQL21SQLCreateTableBuilderC", ""]
+- ["6SQLite0A11CreateTableV", ""]
+- ["3SQL21SQLCreateTableBuilderC", "withoutRowID"]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "Encodable"
+- "GenericSQLCreateTable"
+- "SQLCreateTable"
+- "SQLCreateTableBuilder"
+- "SQLiteColumnDefinition"
+- "SQLiteCreateTable"
+- "SQLiteTableConstraint"
+- "SQLiteTableIdentifier"
+- "String"
+depends-member:
+- !private ["4Core22AnyReflectionDecodableP", "append"]
+- !private ["4Core22AnyReflectionDecodableP", "joined"]
+- !private ["Sa", "append"]
+- !private ["Sa", "joined"]
+- !private ["SK", "append"]
+- !private ["SK", "joined"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "joined"]
+- !private ["Sl", "append"]
+- !private ["Sl", "joined"]
+- !private ["10Foundation15ContiguousBytesP", "append"]
+- !private ["10Foundation15ContiguousBytesP", "joined"]
+- !private ["3NIO20ContiguousCollectionP", "append"]
+- !private ["3NIO20ContiguousCollectionP", "joined"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "joined"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "joined"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "joined"]
+- !private ["10Foundation12DataProtocolP", "append"]
+- !private ["10Foundation12DataProtocolP", "joined"]
+- !private ["Se", "append"]
+- !private ["Se", "joined"]
+- !private ["SE", "append"]
+- !private ["SE", "joined"]
+- !private ["SQ", "append"]
+- !private ["SQ", "joined"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "joined"]
+- !private ["3SQL21GenericSQLCreateTableV", "columns"]
+- !private ["3SQL21GenericSQLCreateTableV", "createTable"]
+- !private ["3SQL21GenericSQLCreateTableV", "ifNotExists"]
+- !private ["3SQL21GenericSQLCreateTableV", "serialize"]
+- !private ["3SQL21GenericSQLCreateTableV", "table"]
+- !private ["3SQL21GenericSQLCreateTableV", "tableConstraints"]
+- !private ["3SQL21GenericSQLCreateTableV", "temporary"]
+- !private ["SH", "append"]
+- !private ["SH", "joined"]
+- !private ["4Core23LosslessDataConvertibleP", "append"]
+- !private ["4Core23LosslessDataConvertibleP", "joined"]
+- !private ["SM", "append"]
+- !private ["SM", "joined"]
+- !private ["10Foundation19MutableDataProtocolP", "append"]
+- !private ["10Foundation19MutableDataProtocolP", "joined"]
+- !private ["Sk", "append"]
+- !private ["Sk", "joined"]
+- !private ["Sm", "append"]
+- !private ["Sm", "joined"]
+- !private ["4Core19ReflectionDecodableP", "append"]
+- !private ["4Core19ReflectionDecodableP", "joined"]
+- !private ["3SQL16SQLColumnBuilderP", "createTable"]
+- ["3SQL14SQLCreateTableP", "ColumnDefinition"]
+- ["3SQL14SQLCreateTableP", "TableConstraint"]
+- ["3SQL14SQLCreateTableP", "TableIdentifier"]
+- ["3SQL14SQLCreateTableP", ""]
+- ["3SQL14SQLCreateTableP", "_Default_ColumnDefinition"]
+- ["3SQL14SQLCreateTableP", "_Default_TableConstraint"]
+- ["3SQL14SQLCreateTableP", "_Default_TableIdentifier"]
+- ["3SQL14SQLCreateTableP", "columns"]
+- ["3SQL14SQLCreateTableP", "createTable"]
+- ["3SQL14SQLCreateTableP", "ifNotExists"]
+- !private ["3SQL14SQLCreateTableP", "init"]
+- !private ["3SQL14SQLCreateTableP", "init"]
+- ["3SQL14SQLCreateTableP", "serialize"]
+- ["3SQL14SQLCreateTableP", "table"]
+- ["3SQL14SQLCreateTableP", "tableConstraints"]
+- ["3SQL14SQLCreateTableP", "temporary"]
+- !private ["3SQL14SQLCreateTableP", "withoutRowID"]
+- ["3SQL21SQLCreateTableBuilderC", "SQLiteCreateTable"]
+- !private ["3SQL21SQLCreateTableBuilderC", "createTable"]
+- ["3SQL21SQLCreateTableBuilderC", "withoutRowID"]
+- !private ["3SQL15SQLQueryBuilderP", "createTable"]
+- ["3SQL15SQLSerializableP", "ColumnDefinition"]
+- ["3SQL15SQLSerializableP", "TableConstraint"]
+- ["3SQL15SQLSerializableP", "TableIdentifier"]
+- ["3SQL15SQLSerializableP", ""]
+- ["3SQL15SQLSerializableP", "_Default_ColumnDefinition"]
+- ["3SQL15SQLSerializableP", "_Default_TableConstraint"]
+- ["3SQL15SQLSerializableP", "_Default_TableIdentifier"]
+- ["3SQL15SQLSerializableP", "columns"]
+- ["3SQL15SQLSerializableP", "createTable"]
+- ["3SQL15SQLSerializableP", "ifNotExists"]
+- !private ["3SQL15SQLSerializableP", "init"]
+- !private ["3SQL15SQLSerializableP", "init"]
+- ["3SQL15SQLSerializableP", "serialize"]
+- ["3SQL15SQLSerializableP", "table"]
+- ["3SQL15SQLSerializableP", "tableConstraints"]
+- ["3SQL15SQLSerializableP", "temporary"]
+- !private ["3SQL15SQLSerializableP", "withoutRowID"]
+- ["6SQLite0A11CreateTableV", "Bool"]
+- ["6SQLite0A11CreateTableV", "ColumnDefinition"]
+- ["6SQLite0A11CreateTableV", "Encodable"]
+- ["6SQLite0A11CreateTableV", "GenericSQLCreateTable"]
+- ["6SQLite0A11CreateTableV", "SQLiteColumnDefinition"]
+- ["6SQLite0A11CreateTableV", "SQLiteCreateTable"]
+- ["6SQLite0A11CreateTableV", "SQLiteTableConstraint"]
+- ["6SQLite0A11CreateTableV", "SQLiteTableIdentifier"]
+- ["6SQLite0A11CreateTableV", "String"]
+- ["6SQLite0A11CreateTableV", "TableConstraint"]
+- ["6SQLite0A11CreateTableV", "TableIdentifier"]
+- ["6SQLite0A11CreateTableV", "_Default_ColumnDefinition"]
+- ["6SQLite0A11CreateTableV", "_Default_TableConstraint"]
+- ["6SQLite0A11CreateTableV", "_Default_TableIdentifier"]
+- ["6SQLite0A11CreateTableV", "columns"]
+- ["6SQLite0A11CreateTableV", "createTable"]
+- ["6SQLite0A11CreateTableV", "deinit"]
+- ["6SQLite0A11CreateTableV", "ifNotExists"]
+- ["6SQLite0A11CreateTableV", "init"]
+- !private ["6SQLite0A11CreateTableV", "init"]
+- ["6SQLite0A11CreateTableV", "serialize"]
+- ["6SQLite0A11CreateTableV", "table"]
+- ["6SQLite0A11CreateTableV", "tableConstraints"]
+- ["6SQLite0A11CreateTableV", "temporary"]
+- ["6SQLite0A11CreateTableV", "withoutRowID"]
+- !private ["ST", "append"]
+- !private ["ST", "joined"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s14_ArrayProtocolP", "joined"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "joined"]
+- !private ["s19_HasContiguousBytesP", "append"]
+- !private ["s19_HasContiguousBytesP", "joined"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "joined"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "joined"]
+depends-nominal:
+- !private "4Core22AnyReflectionDecodableP"
+- !private "Sa"
+- !private "SK"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "10Foundation15ContiguousBytesP"
+- !private "3NIO20ContiguousCollectionP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "SE"
+- !private "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "3SQL21GenericSQLCreateTableV"
+- !private "SH"
+- !private "4Core23LosslessDataConvertibleP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "Sk"
+- !private "Sm"
+- !private "4Core19ReflectionDecodableP"
+- !private "3SQL16SQLColumnBuilderP"
+- "3SQL14SQLCreateTableP"
+- "3SQL21SQLCreateTableBuilderC"
+- !private "3SQL15SQLQueryBuilderP"
+- "3SQL15SQLSerializableP"
+- "6SQLite0A11CreateTableV"
+- !private "ST"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/SQL.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIO.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Async.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Service.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Core.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Debugging.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/COperatingSystem.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Bits.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOFoundationCompat.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/DatabaseKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/CNIOLinux/include/ifaddrs-android.h"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/CNIODarwin/include/CNIODarwin.h"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIOSHA1.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIOOpenSSL.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CCryptoOpenSSL.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIOZlib.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIODarwin.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIOHTTPParser.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIOAtomics.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIOLinux.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio-zlib-support/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "7a2f84da5b104070277b23963cc1fd52"

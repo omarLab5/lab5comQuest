@@ -1,0 +1,290 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "AuthenticationCache"
+provides-nominal:
+- "14Authentication0A5CacheC"
+provides-member:
+- ["14Authentication0A5CacheC", ""]
+- ["5Vapor7RequestC", ""]
+- ["5Vapor7RequestC", "authenticate"]
+- ["5Vapor7RequestC", "authenticated"]
+- ["5Vapor7RequestC", "unauthenticate"]
+- ["5Vapor7RequestC", "isAuthenticated"]
+- ["5Vapor7RequestC", "requireAuthenticated"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- "AssignmentPrecedence"
+- "Authenticatable"
+- "AuthenticationCache"
+- !private "AuthenticationError"
+- "Bool"
+- "CastingPrecedence"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "ObjectIdentifier"
+- "Request"
+- "Service"
+- !private "StringLiteralType"
+depends-member:
+- !private ["5Vapor10AbortErrorP", "init"]
+- !private ["4Core22AnyReflectionDecodableP", "subscript"]
+- ["14Authentication0A5CacheC", "Authenticatable"]
+- ["14Authentication0A5CacheC", "ObjectIdentifier"]
+- ["14Authentication0A5CacheC", "deinit"]
+- ["14Authentication0A5CacheC", "init"]
+- !private ["14Authentication0A5CacheC", "storage"]
+- ["14Authentication0A5CacheC", "subscript"]
+- !private ["14Authentication0A5ErrorV", "deinit"]
+- !private ["14Authentication0A5ErrorV", "init"]
+- !private ["5Async11BasicWorkerP", "AuthenticationCache"]
+- !private ["5Async11BasicWorkerP", "AuthenticationError"]
+- !private ["5Async11BasicWorkerP", "authenticated"]
+- !private ["5Async11BasicWorkerP", "make"]
+- !private ["5Async11BasicWorkerP", "privateContainer"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "init"]
+- !private ["7Service9ContainerP", "AuthenticationCache"]
+- !private ["7Service9ContainerP", "AuthenticationError"]
+- !private ["7Service9ContainerP", "authenticated"]
+- !private ["7Service9ContainerP", "make"]
+- !private ["7Service9ContainerP", "privateContainer"]
+- !private ["7Service14ContainerAliasP", "AuthenticationCache"]
+- !private ["7Service14ContainerAliasP", "AuthenticationError"]
+- !private ["7Service14ContainerAliasP", "authenticated"]
+- !private ["7Service14ContainerAliasP", "privateContainer"]
+- !private ["5Vapor7ContentP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "AuthenticationCache"]
+- !private ["s28CustomDebugStringConvertibleP", "AuthenticationError"]
+- !private ["s28CustomDebugStringConvertibleP", "authenticated"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "privateContainer"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "AuthenticationCache"]
+- !private ["s23CustomStringConvertibleP", "AuthenticationError"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "authenticated"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "privateContainer"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["11DatabaseKit0A11ConnectableP", "AuthenticationCache"]
+- !private ["11DatabaseKit0A11ConnectableP", "AuthenticationError"]
+- !private ["11DatabaseKit0A11ConnectableP", "authenticated"]
+- !private ["11DatabaseKit0A11ConnectableP", "privateContainer"]
+- !private ["9Debugging10DebuggableP", "init"]
+- !private ["Se", "subscript"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["SD", "subscript"]
+- !private ["SE", "subscript"]
+- !private ["SQ", "init"]
+- !private ["SQ", "subscript"]
+- !private ["s5ErrorP", "init"]
+- !private ["3NIO14EventLoopGroupP", "AuthenticationCache"]
+- !private ["3NIO14EventLoopGroupP", "AuthenticationError"]
+- !private ["3NIO14EventLoopGroupP", "authenticated"]
+- !private ["3NIO14EventLoopGroupP", "make"]
+- !private ["3NIO14EventLoopGroupP", "privateContainer"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["5Vapor20HTTPMessageContainerP", "AuthenticationCache"]
+- !private ["5Vapor20HTTPMessageContainerP", "AuthenticationError"]
+- !private ["5Vapor20HTTPMessageContainerP", "authenticated"]
+- !private ["5Vapor20HTTPMessageContainerP", "privateContainer"]
+- !private ["SH", "init"]
+- !private ["SH", "subscript"]
+- !private ["10Foundation14LocalizedErrorP", "init"]
+- !private ["SO", "init"]
+- !private ["4Core19ReflectionDecodableP", "subscript"]
+- ["5Vapor7RequestC", "Authenticatable"]
+- !private ["5Vapor7RequestC", "AuthenticationCache"]
+- !private ["5Vapor7RequestC", "AuthenticationError"]
+- ["5Vapor7RequestC", "Bool"]
+- ["5Vapor7RequestC", "authenticate"]
+- ["5Vapor7RequestC", "authenticated"]
+- ["5Vapor7RequestC", "isAuthenticated"]
+- !private ["5Vapor7RequestC", "privateContainer"]
+- ["5Vapor7RequestC", "requireAuthenticated"]
+- ["5Vapor7RequestC", "unauthenticate"]
+- !private ["5Vapor16RequestDecodableP", "AuthenticationCache"]
+- !private ["5Vapor16RequestDecodableP", "AuthenticationError"]
+- !private ["5Vapor16RequestDecodableP", "authenticated"]
+- !private ["5Vapor16RequestDecodableP", "privateContainer"]
+- !private ["5Vapor16RequestDecodableP", "subscript"]
+- !private ["5Vapor16RequestEncodableP", "AuthenticationCache"]
+- !private ["5Vapor16RequestEncodableP", "AuthenticationError"]
+- !private ["5Vapor16RequestEncodableP", "authenticated"]
+- !private ["5Vapor16RequestEncodableP", "privateContainer"]
+- !private ["5Vapor16RequestEncodableP", "subscript"]
+- !private ["5Vapor17ResponseDecodableP", "subscript"]
+- !private ["5Vapor17ResponseEncodableP", "subscript"]
+- !private ["ST", "subscript"]
+- !private ["7ServiceAAP", "ObjectIdentifier"]
+- ["7ServiceAAP", ""]
+- !private ["7ServiceAAP", "storage"]
+- !private ["7ServiceAAP", "subscript"]
+- !private ["9Debugging14SourceLocationV", "capture"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["7Service12SubContainerP", "make"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+depends-nominal:
+- !private "5Vapor10AbortErrorP"
+- !private "4Core22AnyReflectionDecodableP"
+- "14Authentication0A5CacheC"
+- !private "14Authentication0A5ErrorV"
+- !private "5Async11BasicWorkerP"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "7Service9ContainerP"
+- !private "7Service14ContainerAliasP"
+- !private "5Vapor7ContentP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "11DatabaseKit0A11ConnectableP"
+- !private "9Debugging10DebuggableP"
+- !private "Se"
+- !private "s26DefaultStringInterpolationV"
+- !private "SD"
+- !private "SE"
+- !private "SQ"
+- !private "s5ErrorP"
+- !private "3NIO14EventLoopGroupP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "5Vapor20HTTPMessageContainerP"
+- !private "SH"
+- !private "10Foundation14LocalizedErrorP"
+- !private "SO"
+- !private "4Core19ReflectionDecodableP"
+- "5Vapor7RequestC"
+- !private "5Vapor16RequestDecodableP"
+- !private "5Vapor16RequestEncodableP"
+- !private "5Vapor17ResponseDecodableP"
+- !private "5Vapor17ResponseEncodableP"
+- !private "ST"
+- "7ServiceAAP"
+- !private "9Debugging14SourceLocationV"
+- !private "s27StringInterpolationProtocolP"
+- !private "7Service12SubContainerP"
+- !private "s16TextOutputStreamP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOHTTP1.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOOpenSSL.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIO.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/HTTP.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOTLS.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Async.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Command.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Service.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Console.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Core.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Logging.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Debugging.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Routing.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/COperatingSystem.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Random.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/URLEncodedForm.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Validation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Crypto.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Vapor.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Bits.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOFoundationCompat.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/WebSocket.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/NIOWebSocket.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/DatabaseKit.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/TemplateKit.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Fluent.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Multipart.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/CNIOSHA1/include/CNIOSHA1.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/asn1.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/tls1.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/dtls1.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/pkcs12.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/ssl2.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/pem2.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/ssl23.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/ssl3.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/x509v3.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/md5.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/pkcs7.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/x509.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/sha.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/dsa.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/ecdsa.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/rsa.h"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/CNIOZlib/include/CNIOZlib.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/obj_mac.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/hmac.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/ec.h"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/CNIOLinux/include/ifaddrs-android.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/rand.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/conf.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/opensslconf.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/dh.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/ecdh.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/lhash.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/stack.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/safestack.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/ssl.h"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio-ssl/Sources/CNIOOpenSSL/include/c_nio_openssl.h"
+- "/Users/macbook/lab5comQuest/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include/c_crypto_openssl.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/pem.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/bn.h"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/CNIODarwin/include/CNIODarwin.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/bio.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/crypto.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/srtp.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/evp.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/ossl_typ.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/buffer.h"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include/CNIOHTTPParser.h"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include/c_nio_http_parser.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/err.h"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/opensslfeatures.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/objects.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/opensslv.h"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/usr/local/Cellar/libressl/2.9.1/include/openssl/x509_vfy.h"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIOSHA1.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIOOpenSSL.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CCryptoOpenSSL.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIOZlib.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIODarwin.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIOHTTPParser.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIOAtomics.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/CNIOLinux.build/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/checkouts/crypto/Sources/CBase32/include/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/checkouts/crypto/Sources/CBcrypt/include/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio-zlib-support/module.modulemap"
+- "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio-ssl-support/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "2761a93fec048592e23cdc101be6ebd3"

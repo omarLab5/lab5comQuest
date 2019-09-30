@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "bb51103623c561fed696c428de64c8d3"
+build_time: [1569847803, 860720000]
+inputs:
+  "/Users/macbook/lab5comQuest/.build/checkouts/core/Sources/Async/Async+NIO.swift": [1569847760, 134714100]
+  "/Users/macbook/lab5comQuest/.build/checkouts/core/Sources/Async/AsyncError.swift": [1569847760, 134836307]
+  "/Users/macbook/lab5comQuest/.build/checkouts/core/Sources/Async/Collection+Future.swift": [1569847760, 162508675]
+  "/Users/macbook/lab5comQuest/.build/checkouts/core/Sources/Async/Deprecated.swift": [1569847760, 135082080]
+  "/Users/macbook/lab5comQuest/.build/checkouts/core/Sources/Async/Exports.swift": [1569847760, 135183129]
+  "/Users/macbook/lab5comQuest/.build/checkouts/core/Sources/Async/Future+DoCatch.swift": [1569847760, 162823342]
+  "/Users/macbook/lab5comQuest/.build/checkouts/core/Sources/Async/Future+Flatten.swift": [1569847760, 163023062]
+  "/Users/macbook/lab5comQuest/.build/checkouts/core/Sources/Async/Future+Global.swift": [1569847760, 135798932]
+  "/Users/macbook/lab5comQuest/.build/checkouts/core/Sources/Async/Future+Map.swift": [1569847760, 135906199]
+  "/Users/macbook/lab5comQuest/.build/checkouts/core/Sources/Async/Future+Transform.swift": [1569847760, 136005269]
+  "/Users/macbook/lab5comQuest/.build/checkouts/core/Sources/Async/Future+Variadic.swift": [1569847760, 136135519]
+  "/Users/macbook/lab5comQuest/.build/checkouts/core/Sources/Async/Future+Void.swift": [1569847760, 136243540]
+  "/Users/macbook/lab5comQuest/.build/checkouts/core/Sources/Async/FutureType.swift": [1569847760, 163403755]
+  "/Users/macbook/lab5comQuest/.build/checkouts/core/Sources/Async/QueueHandler.swift": [1569847760, 136494839]
+  "/Users/macbook/lab5comQuest/.build/checkouts/core/Sources/Async/Worker.swift": [1569847760, 136746797]

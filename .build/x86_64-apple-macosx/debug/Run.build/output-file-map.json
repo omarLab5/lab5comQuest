@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Run.build/master.swiftdeps"
+  },
+  "/Users/macbook/lab5comQuest/Sources/Run/main.swift": {
+    "dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Run.build/main.d",
+    "object": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Run.build/main.swift.o",
+    "swiftmodule": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Run.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbook/lab5comQuest/.build/x86_64-apple-macosx/debug/Run.build/main.swiftdeps"
+  }
+}

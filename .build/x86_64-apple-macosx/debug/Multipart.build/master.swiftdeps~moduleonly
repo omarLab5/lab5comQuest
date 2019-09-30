@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "91713d83e3fe899f0618e7a7d0f14880"
+build_time: [1569847809, 895126000]
+inputs:
+  "/Users/macbook/lab5comQuest/.build/checkouts/multipart/Sources/Multipart/Exports.swift": [1569847763, 976025503]
+  "/Users/macbook/lab5comQuest/.build/checkouts/multipart/Sources/Multipart/FormDataDecoder.swift": [1569847763, 976423171]
+  "/Users/macbook/lab5comQuest/.build/checkouts/multipart/Sources/Multipart/FormDataEncoder.swift": [1569847763, 976651146]
+  "/Users/macbook/lab5comQuest/.build/checkouts/multipart/Sources/Multipart/MultipartError.swift": [1569847763, 976862012]
+  "/Users/macbook/lab5comQuest/.build/checkouts/multipart/Sources/Multipart/MultipartParser.swift": [1569847764, 5150983]
+  "/Users/macbook/lab5comQuest/.build/checkouts/multipart/Sources/Multipart/MultipartPart.swift": [1569847763, 977344775]
+  "/Users/macbook/lab5comQuest/.build/checkouts/multipart/Sources/Multipart/MultipartPartConvertible.swift": [1569847763, 977561755]
+  "/Users/macbook/lab5comQuest/.build/checkouts/multipart/Sources/Multipart/MultipartSerializer.swift": [1569847763, 977774023]

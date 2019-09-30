@@ -1,0 +1,4 @@
+module CNIOZlib {
+    umbrella header "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/CNIOZlib/include/CNIOZlib.h"
+    export *
+}

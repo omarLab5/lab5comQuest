@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "edd865fa8197980238a89b94fd596de6"
+build_time: [1569847812, 407415000]
+inputs:
+  "/Users/macbook/lab5comQuest/.build/checkouts/console/Sources/Logging/Exports.swift": [1569847764, 318939823]
+  "/Users/macbook/lab5comQuest/.build/checkouts/console/Sources/Logging/LogLevel.swift": [1569847764, 319108009]
+  "/Users/macbook/lab5comQuest/.build/checkouts/console/Sources/Logging/Logger.swift": [1569847764, 319270016]
+  "/Users/macbook/lab5comQuest/.build/checkouts/console/Sources/Logging/PrintLogger.swift": [1569847764, 319510249]
