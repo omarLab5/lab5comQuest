@@ -1,6 +1,0 @@
-version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
-options: "57d62dd014d4183045a3507d7355c9e1"
-build_time: [1569847776, 60487000]
-inputs:
-  "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/NIOPriorityQueue/Heap.swift": [1569847763, 707384551]
-  "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/NIOPriorityQueue/PriorityQueue.swift": [1569847763, 707546183]

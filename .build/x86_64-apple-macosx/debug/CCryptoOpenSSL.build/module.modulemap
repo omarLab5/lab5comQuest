@@ -1,4 +1,0 @@
-module CCryptoOpenSSL {
-    umbrella "/Users/macbook/lab5comQuest/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
-    export *
-}

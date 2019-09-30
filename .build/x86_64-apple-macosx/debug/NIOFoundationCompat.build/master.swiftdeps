@@ -1,5 +1,0 @@
-version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
-options: "2def8592c7648dd352229bc9839d8413"
-build_time: [1569847801, 541814000]
-inputs:
-  "/Users/macbook/lab5comQuest/.build/checkouts/swift-nio/Sources/NIOFoundationCompat/ByteBuffer-foundation.swift": [1569847763, 701935561]

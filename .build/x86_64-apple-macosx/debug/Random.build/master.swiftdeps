@@ -1,8 +1,0 @@
-version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
-options: "8d5feca1a5ce0ef8e3285802506f701b"
-build_time: [1569847804, 981732000]
-inputs:
-  "/Users/macbook/lab5comQuest/.build/checkouts/crypto/Sources/Random/Array+Random.swift": [1569847763, 358199274]
-  "/Users/macbook/lab5comQuest/.build/checkouts/crypto/Sources/Random/OSRandom.swift": [1569847763, 358359753]
-  "/Users/macbook/lab5comQuest/.build/checkouts/crypto/Sources/Random/RandomProtocol.swift": [1569847763, 358518677]
-  "/Users/macbook/lab5comQuest/.build/checkouts/crypto/Sources/Random/URandom.swift": [1569847763, 358680077]
