@@ -1,0 +1,4 @@
+module CNIOOpenSSL {
+    umbrella "/Users/macbook/QuestLab5ComApp/.build/checkouts/swift-nio-ssl/Sources/CNIOOpenSSL/include"
+    export *
+}
