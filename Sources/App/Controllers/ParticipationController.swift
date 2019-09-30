@@ -49,7 +49,5 @@ final class ParticipationController: RouteCollection {
         tokenProtected.post(use: createHandler)
         tokenProtected.delete(ParticipationQuest.parameter, use: deleteHandler)
         
-        
-        
     }
 }
